@@ -1,0 +1,41 @@
+h1{
+	font-family: 'Shantell Sans', cursive;
+	color: white;
+	font-size: 3em;
+}
+body{
+	background: url(https://media.istockphoto.com/id/1194777677/photo/futuristic-pedestal.jpg?s=612x612&w=0&k=20&c=DXXqE9AZU4mfNdDcuO40t0y6ujvIMRTBTT5_onNoOlU=) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	height: 100vh;
+}
+.btn-lm{
+	padding: 1rem 2rem;
+}
+.btn{
+	font-weight: 700;
+	text-transform: uppercase;
+	border-radius: 300px;
+}
+.btn-primary{
+	background-color: #F90031;
+	border-color: #F90031;
+}
+.btn-primary:hover{
+	background-color: #F6004A;
+	border-color: #F6004A;
+	border-width: 4px;
+}
+hr{
+	border-color: #F90031;
+	border-width: 3px;
+	max-width: 65px;
+}
+.buffer{
+	height: 10px;
+}
+.container{
+	height: 100%;
+}
